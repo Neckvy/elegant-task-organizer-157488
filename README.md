@@ -1,1 +1,3 @@
-# elegant-task-organizer-157488
+# Project Repository
+
+This is the initial README file for the project.
